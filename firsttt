@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Consulenza Vendite</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Consulenza Vendite</h1>
+            <nav>
+                <ul>
+                    <li><a href="#chi-sono">Chi Sono</a></li>
+                    <li><a href="#esperienze">Esperienze</a></li>
+                    <li><a href="#migliorare-vendite">Perché Migliorare</a></li>
+                    <li><a href="#servizi">Servizi</a></li>
+                    <li><a href="#contatti">Contatti</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main>
+        <section id="chi-sono" class="section">
+            <h2>Chi Sono</h2>
+            <p>Mi chiamo [Il Tuo Nome] e sono un consulente specializzato nell'incremento delle vendite per aziende di ogni dimensione.</p>
+        </section>
+
+        <section id="esperienze" class="section">
+            <h2>Esperienze</h2>
+            <p>Con oltre [numero] anni di esperienza nel settore, ho aiutato numerose aziende a superare i loro obiettivi di vendita.</p>
+        </section>
+
+        <section id="migliorare-vendite" class="section">
+            <h2>Perché Migliorare le Tue Vendite</h2>
+            <p>Un sistema di vendita efficace può trasformare il futuro della tua azienda. Ti aiuterò a identificare le aree di miglioramento e a implementare strategie vincenti.</p>
+        </section>
+
+        <section id="servizi" class="section">
+            <h2>Servizi Offerti</h2>
+            <ul>
+                <li>Analisi del mercato e della concorrenza</li>
+                <li>Formazione dei team di vendita</li>
+                <li>Strategie per aumentare i profitti</li>
+            </ul>
+        </section>
+
+        <section id="contatti" class="section">
+            <h2>Contatti</h2>
+            <p>Contattami per una consulenza personalizzata:</p>
+            <p>Email: <a href="mailto:tuoemail@esempio.com">tuoemail@esempio.com</a></p>
+            <p>Telefono: <a href="tel:+390000000000">+39 000 000 000</a></p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Consulenza Vendite. Tutti i diritti riservati.</p>
+    </footer>
+</body>
+</html>
